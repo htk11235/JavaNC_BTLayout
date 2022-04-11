@@ -55,6 +55,7 @@ public class SimpleCalculator_HuynhTrongKhoa extends javax.swing.JFrame {
         gridBagConstraints.gridx = 0;
         gridBagConstraints.gridy = 0;
         gridBagConstraints.gridwidth = 2;
+        gridBagConstraints.anchor = java.awt.GridBagConstraints.WEST;
         jPanel2.add(jLabel2_16, gridBagConstraints);
         jLabel2_16.getAccessibleContext().setAccessibleName("Label1_16");
 
@@ -78,6 +79,7 @@ public class SimpleCalculator_HuynhTrongKhoa extends javax.swing.JFrame {
         gridBagConstraints.gridx = 0;
         gridBagConstraints.gridy = 1;
         gridBagConstraints.gridwidth = 2;
+        gridBagConstraints.anchor = java.awt.GridBagConstraints.WEST;
         jPanel2.add(jLabel3_16, gridBagConstraints);
         jLabel3_16.getAccessibleContext().setAccessibleName("Label2_16");
 
@@ -100,6 +102,7 @@ public class SimpleCalculator_HuynhTrongKhoa extends javax.swing.JFrame {
         gridBagConstraints.gridx = 0;
         gridBagConstraints.gridy = 2;
         gridBagConstraints.gridwidth = 2;
+        gridBagConstraints.anchor = java.awt.GridBagConstraints.WEST;
         jPanel2.add(jLabel4_16, gridBagConstraints);
         jLabel4_16.getAccessibleContext().setAccessibleName("Label3_16");
 
